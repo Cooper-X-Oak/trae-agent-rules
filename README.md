@@ -1,5 +1,7 @@
 # Trae Agent Rules (Learning Edition)
 
+**中文** | [English](README_EN.md)
+
 这是一个关于 Trae IDE 智能体规则配置的学习项目，旨在通过标准化、结构化的规则定义，提升 AI 辅助编程的效率与准确性。
 
 ## ⚠️ 声明 (Disclaimer)
