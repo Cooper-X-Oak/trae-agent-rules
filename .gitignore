@@ -18,8 +18,16 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Trae - Keep .trae/rules but ignore specific user settings if any (usually safe to keep all for rules repo)
-# .trae/
+# Trae - Ignore local IDE settings and rules not meant for distribution
+.trae/
+
+# Raw source files (ignored for distribution)
+agent-rules-main/
+trae-rules-examples/
+*.sh
+TRAE_ADVANCED_TECHNIQUES.md
+RULE_ANALYSIS_AND_INSPIRATION.md
+LEARNING_GUIDE.md
 
 # Temp files
 tmp/
